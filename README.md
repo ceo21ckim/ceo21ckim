@@ -16,7 +16,7 @@
 # Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehddjs7786@gmail.com)](mailto:ehddjs7786@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-School%20mail-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:ponben@khu.ac.kr)](mailto:ponben@khu.ac.kr)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EB%8F%99%EC%96%B8-%EA%B9%80-59777422a//)](https://www.linkedin.com/in/changsoo-kwak-b07703194/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EB%8F%99%EC%96%B8-%EA%B9%80-59777422a//)](https://www.linkedin.com/in/%EB%8F%99%EC%96%B8-%EA%B9%80-59777422a/)
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://ok-lab.tistory.com/)](https://cieske.tistory.com/)
 
 
