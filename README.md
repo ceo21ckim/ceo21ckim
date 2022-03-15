@@ -1,20 +1,27 @@
 ### Hi there ok-lab 👋
 
-<!--
-**ceo21ckim/ceo21ckim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My interests
+- Recommender system  
+- Natural Language Processing
+- Deep Learning
+- Machine Learning
 
-Here are some ideas to get you started:
+# Career
+| **Type** | **Date** | **Contents** | **Organization** |
+|:--------:|:--------:|:--------:|:--------:|
+| **B.S. Degree** | 2015.03 ~ 2021.08 | double major Mathematics and Economics | **Myong-Ji Univ.** |
+| **M.S. Candidate** | 2021. 08 ~ | Department of BigData Application | **Kyung-hee Grad.** |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Recommender Systems, NLP, Deep learning, Machine learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+# Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cieske123@gmail.com)](mailto:cieske123@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-School%20mail-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:cskwak@postech.ac.kr)](mailto:cskwak@postech.ac.kr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/changsoo-kwak-b07703194/)](https://www.linkedin.com/in/changsoo-kwak-b07703194/)
+[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://cieske.tistory.com/)](https://cieske.tistory.com/)
+[![Notion Badge](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/cieske/10497a936fa84b089c721e741e74dddb?v=c4b9251a8828469aa366b2bc9c0401c5)](https://www.notion.so/cieske/Recommender-systems-paper-with-brief-summary-171cd4a126774cf6895f2edfb3b21e7c)
+
+
+# Cards
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceo21ckim&theme=highcontrast&show_icons=true)
 
 
