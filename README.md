@@ -10,7 +10,7 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **B.S. Degree** | 2015.03 ~ 2021.08 | double major Mathematics and Economics | **Myong-Ji Univ.** |
-| **M.S. Candidate** | 2021. 08 ~ | Department of BigData Application | **Kyung-hee Grad.** |
+| **M.S. Student** | 2021. 08 ~ | Department of BigData Application | **Kyung-hee Grad.** |
 
 
 # Contact
