@@ -12,6 +12,12 @@
 | **B.S. Degree** | 2015.03 ~ 2021.08 | double major Mathematics and Economics | **Myong-Ji Univ.** |
 | **Current** | 2021. 08 ~ | KHU M.S. Student | **KHU AI Biz Lab** |
 
+# Certification
+| **Type** | **Date** | **No.** |
+|:--------:|:--------:|:--------:|
+| **ADsP** | 2020.07.07 | ADsP-0252494 |
+| **Survey Analyst, Junior** | 2020.12.31 | 20505021002V |
+| **Engineer Big Data Analysis** | 2021.07.16 | BAE-002001654 |
 
 # Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehddjs7786@gmail.com)](mailto:ehddjs7786@gmail.com)
