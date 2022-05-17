@@ -1,8 +1,9 @@
 ### Hi there ok-lab 👋
 
 # My interests
-- Recommender system  
+- Recommender Systems  
 - Natural Language Processing
+- Graph Mining
 - Deep Learning
 - Machine Learning
 
