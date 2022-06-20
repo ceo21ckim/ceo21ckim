@@ -21,7 +21,7 @@
 | **Engineer Big Data Analysis** | 2021.07.16 | BAE-002001654 |
 
 # paper
-| **Type** | **title** | **Date** |
+| **Type** | **Title** | **Date** |
 |:--------:|:--------:|:--------:|
 | **Conference** | Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect | 2022.06.10  | 
 
