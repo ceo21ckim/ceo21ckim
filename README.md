@@ -20,6 +20,12 @@
 | **Survey Analyst, Junior** | 2020.12.31 | 20505021002V |
 | **Engineer Big Data Analysis** | 2021.07.16 | BAE-002001654 |
 
+# paper
+| **Type** | **title** | **Date** |
+|:--------:|:--------:|:--------:|
+| **Conference** | Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect | 2022.06.10  | 
+
+
 # Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehddjs7786@gmail.com)](mailto:ehddjs7786@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-School%20mail-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:ponben@khu.ac.kr)](mailto:ponben@khu.ac.kr)
