@@ -23,7 +23,7 @@
 # paper
 | **Type** | **Title** | **Date** |
 |:--------:|:--------:|:--------:|
-| **Conference** | Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect | 2022.06.10  | 
+| **Conference, 1st author** | Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect | 2022.06.10  | 
 
 
 # Contact
