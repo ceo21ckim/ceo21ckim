@@ -23,7 +23,8 @@
 # Paper
 | **Type** | **Title** | **Date** |
 |:--------:|:--------:|:--------:|
-| **Conference, 1st author** | Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect | 2022.06.10  | 
+| **Conference, 1st author** | Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect | 2022.06.10  |
+| **Paper, 1st author** | A Study on the Classification and Charactorization Analysis Subway Station for the Customized Policies: Seoul Metropolitan Subway Cases | 2022.09.07 |
 
 
 # Contact
