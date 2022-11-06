@@ -24,7 +24,7 @@
 | **Type** | **Title** | **Date** |
 |:--------:|:--------:|:--------:|
 | **Conference, 1st author** | Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect | 2022.06.10  |
-| **KCI, 1st author** | A Study on the Classification and Charactorization Analysis Subway Station for the Customized Policies: Seoul Metropolitan Subway Cases | 2022.09.07 |
+| **KCI, 1st author** | 역사 맞춤형 정책 수립을 위한 지하철 역사의 유형화 및 특성 분석에 관한 연구: 서울 지하철 사례를 중심으로 | 2022.09.07 |
 
 
 # Contact
