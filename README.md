@@ -23,10 +23,9 @@
 # Paper
 | **Type** | **Title** | **Date** |
 |:--------:|:--------:|:--------:|
-| **Conference, 1st author** | Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect | 2022.06.10  |
-| **KCI, 1st author** | 역사 맞춤형 정책 수립을 위한 지하철 역사의 유형화 및 특성 분석에 관한 연구: 서울 지하철 사례를 중심으로 | 2022.09.07 |
 | **SSCI, co-author** | An Empirical Invertigation of Personalized Recommendation and Reward Effect and Customer Behavior: A Stimulus-Organism-Response (SOR) Model Perspective | 2022.11.18 |
-
+| **KCI, 1st author** | 역사 맞춤형 정책 수립을 위한 지하철 역사의 유형화 및 특성 분석에 관한 연구: 서울 지하철 사례를 중심으로 | 2022.09.07 |
+| **Conference, 1st author** | Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect | 2022.06.10  |
 
 # Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehddjs7786@gmail.com)](mailto:ehddjs7786@gmail.com)
