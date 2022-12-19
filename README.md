@@ -24,9 +24,9 @@
 | **Type** | **Title** | **Date** |
 |:--------:| --- |:--------:|
 | **KCI, 1st author** | 소규모 전자상거래를 위한 추천 시스템의 시간 차이에 따른 추천 효과 측정에 관한 연구 | |
-| **SSCI, co-author** | An Empirical Invertigation of Personalized Recommendation and Reward Effect and Customer Behavior: A Stimulus-Organism-Response (SOR) Model Perspective | 2022.11.18 |
-| **KCI, 1st author** | 역사 맞춤형 정책 수립을 위한 지하철 역사의 유형화 및 특성 분석에 관한 연구: 서울 지하철 사례를 중심으로 | 2022.09.07 |
-| **Conference, 1st author** | Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect | 2022.06.10  |
+| **SSCI, co-author** | An Empirical Invertigation of Personalized Recommendation and Reward Effect and Customer Behavior: A Stimulus-Organism-Response (SOR) Model Perspective | 2022.11 |
+| **KCI, 1st author** | 역사 맞춤형 정책 수립을 위한 지하철 역사의 유형화 및 특성 분석에 관한 연구: 서울 지하철 사례를 중심으로 | 2022.08 |
+| **Conference, 1st author** | Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect | 2022.06  |
 
 # Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehddjs7786@gmail.com)](mailto:ehddjs7786@gmail.com)
