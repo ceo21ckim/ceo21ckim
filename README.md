@@ -13,7 +13,7 @@
 | **B.S. Degree** | 2015.03 ~ 2021.08 | double major Mathematics and Economics | **Myong-Ji Univ.** |
 | **M.S. Student** | 2021.08 ~ 2023.08 | Department of Big Data Analytics | **KHU AI Biz Lab** |
 
-# Certification
+# Qualification
 | **Type** | **Date** | **No.** |
 |:--------:|:--------:|:--------:|
 | **ADsP** | 2020.07.07 | ADsP-0252494 |
