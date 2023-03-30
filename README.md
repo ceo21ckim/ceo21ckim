@@ -10,8 +10,9 @@
 # Career
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **B.S. Degree** | 2015.03 ~ 2021.08 | double major Mathematics and Economics | **Myong-Ji Univ.** |
+| **B.S. Student** | 2015.03 ~ 2021.08 | double major Mathematics and Economics | **Myong-Ji Univ.** |
 | **M.S. Student** | 2021.08 ~ 2023.08 | Department of Big Data Analytics | **KHU AI Biz Lab** |
+| **SK Planet Intern**| 2023.04 ~ 2023.07 | AI Engineer | - |
 
 # Certification
 | **Type** | **Date** | **No.** |
