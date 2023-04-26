@@ -24,6 +24,7 @@
 # Paper
 | **Type** | **Title** | **Date** | **URL** |
 |:--------:| --- |:--------:|:------:|
+|**KCI, co-author**| 중소기업의 지속가능한 경영을 위한 머신러닝 기반 스마트 컨설팅 방법론에 관한 연구 | 2023.06 | - |
 |**KCI, co-author**| 명시적 및 암시적 피드백을 활용한 그래프 컨볼루션 네트워크 기반 추천 시스템 개발| 2023.02 | [URL](https://scholar.kyobobook.co.kr/article/detail/4010047321916) |
 | **KCI, 1st author** | 소규모 전자상거래를 위한 추천 시스템의 시간 차이에 따른 추천 효과 측정에 관한 연구 | 2022.12 | [URL](https://doi.org/10.37272/JIECR.2022.12.22.6.185)|
 | **SSCI, co-author** | An Empirical Investigation of Personalized Recommendation and Reward Effect and Customer Behavior: A Stimulus-Organism-Response (SOR) Model Perspective | 2022.11 | [URL](https://doi.org/10.3390/su142215369) |
