@@ -4,8 +4,8 @@
 - Recommender Systems  
 - Natural Language Processing
 - Graph Mining
-- Deep Learning
-- Machine Learning
+- Anomaly Detection
+- Computer Vision
 
 # Career
 | **Type** | **Date** | **Contents** | **Organization** |
