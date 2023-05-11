@@ -31,6 +31,15 @@
 | **KCI, 1st author** | 역사 맞춤형 정책 수립을 위한 지하철 역사의 유형화 및 특성 분석에 관한 연구: 서울 지하철 사례를 중심으로 | 2022.08 | [URL](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002875447) |
 | **Conference, 1st author** | Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect | 2022.06  | [URL](https://www.earticle.net/Article/A416315) |
 
+<details>
+  <summary>Patent</summary>  
+
+#### Application
+  
+- Consulting system of supporting decision-making of enterprise and method thereof
+  
+</details>
+
 # Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehddjs7786@gmail.com)](mailto:ehddjs7786@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-School%20mail-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:ponben@khu.ac.kr)](mailto:ponben@khu.ac.kr)
