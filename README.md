@@ -14,6 +14,9 @@
 | **M.S. Candidate** | 2021.08 ~ 2023.08 | Department of Big Data Analytics | **Kyung Hee Univ.** |
 | **Current**| 2023.04 ~ | AI Engineer | **SK Planet** |
 
+<details>
+  <summary>Certification</summary>
+  
 # Certification
 | **Type** | **Date** | **No.** |
 |:--------:|:--------:|:--------:|
@@ -21,18 +24,22 @@
 | **Survey Analyst, Junior** | 2020.12.31 | 20505021002V |
 | **Engineer Big Data Analysis** | 2021.07.16 | BAE-002001654 |
 
+</details>
+  
 <details>
   <summary>Papers</summary>  
 
 #### SCI(E) / SSCI
 
-  
-
+- [2023] Qinglong Li, Dongsoo Jang, **Dongeon Kim**. A Novel Restaurant Recommendation Model Using Textual Information for Estimating Consumer Preference: Evidence from Online Restaurant Platform `Major Revision`
+- [2023] **Dongeon Kim**, Jiaen Lee. Developing Restaurant Recommendation Model with Review Textual for Tourism Industry `Under Review`
 - [2022] Jaeho Jeong, **Dongeon Kim**, Xinzhe Li, Qinglong Li, Ilyoung Choi, Jaekyeong Kim. An Empirical Investigation of Personalized Recommendation and Reward Effect on Customer Behavior: A Stimulus-Organism-Response (SOR) Model Perspective [[URL]](https://doi.org/10.3390/su142215369)
+- [2022] Qinglong Li, Jaeho Jeong, **Dongeon Kim**, Xinzhe Li, Jaekyeong Kim. Empirical Comparison of the Effects of Online and Offline Recommendation Duration on Performance: The Case of Korea Food E-commerce Company `Under Review`
+
   
 #### KCI
 
-- [2023] 중소기업의 지속가능한 경영을 위한 머신러닝 기반 스마트 컨설팅 방법론에 관한 연구 `Minor Revision`
+- [2023] 중소기업의 지속가능한 경영을 위한 머신러닝 기반 스마트 컨설팅 방법론에 관한 연구 [[URL]]()
 - [2023] 이흠철, **김동언**, 이청용, 김재경. 명시적 및 암시적 피드백을 활용한 그래프 컨볼루션 네트워크 기반 추천 시스템 개발 [[URL]](https://scholar.kyobobook.co.kr/article/detail/4010047321916)
 - [2022] **김동언**, 김민지, 김재경. 소규모 전자상거래를 위한 추천 시스템의 시간 차이에 따른 추천 효과 측정에 관한 연구 [[URL]](https://doi.org/10.37272/JIECR.2022.12.22.6.185)
 - [2022] **김동언**, 이청용, 김재경. 역사 맞춤형 정책 수립을 위한 지하철 역사의 유형화 및 특성 분석에 관한 연구: 서울 지하철 사례를 중심으로 [[URL]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002875447)
@@ -42,16 +49,6 @@
 - [2022] **김동언**, 이청용, 정재호, 김재경. Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect [[URL]](https://www.earticle.net/Article/A416315)
   
 </details>
-
-# Paper
-| **Type** | **Title** | **Date** | **URL** |
-|:--------:| --- |:--------:|:------:|
-|**KCI, co-author**| 중소기업의 지속가능한 경영을 위한 머신러닝 기반 스마트 컨설팅 방법론에 관한 연구 | 2023.06 | - |
-|**KCI, co-author**| 명시적 및 암시적 피드백을 활용한 그래프 컨볼루션 네트워크 기반 추천 시스템 개발| 2023.02 | [URL](https://scholar.kyobobook.co.kr/article/detail/4010047321916) |
-| **KCI, 1st author** | 소규모 전자상거래를 위한 추천 시스템의 시간 차이에 따른 추천 효과 측정에 관한 연구 | 2022.12 | [URL](https://doi.org/10.37272/JIECR.2022.12.22.6.185)|
-| **SSCI, co-author** | An Empirical Investigation of Personalized Recommendation and Reward Effect and Customer Behavior: A Stimulus-Organism-Response (SOR) Model Perspective | 2022.11 | [URL](https://doi.org/10.3390/su142215369) |
-| **KCI, 1st author** | 역사 맞춤형 정책 수립을 위한 지하철 역사의 유형화 및 특성 분석에 관한 연구: 서울 지하철 사례를 중심으로 | 2022.08 | [URL](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002875447) |
-| **Conference, 1st author** | Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect | 2022.06  | [URL](https://www.earticle.net/Article/A416315) |
 
 <details>
   <summary>Patent</summary>  
