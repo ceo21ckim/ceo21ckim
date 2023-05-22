@@ -44,6 +44,7 @@
   
 #### Domestic Conference
 
+- [2023] 이청용, 장동수, **김동언**, 김재경. A novel restaurant recommendation model using textual information for estimating consumer preference [[URL]]()
 - [2022] **김동언**, 이청용, 정재호, 김재경. Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect [[URL]](https://www.earticle.net/Article/A416315)
 
   
