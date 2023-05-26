@@ -81,7 +81,10 @@
 
 #### Application
   
-- Consulting system of supporting decision-making of enterprise and method thereof
+- [2023] YeongHyeon Park, **Dongeon Kim**. Management method of foreign matter for liquid products and an device supporting the same
+- [2023] **Dongeon Kim**, YeongHyeon Park. Management method of foreign matter for liquid product based on a graph and an device supporting the same
+- [2022] Jaekyeong Kim, **Dongeon Kim**, Dongsoo Jang, Kyungmo Kang, Qinglong Li. Consulting system for supporting decision-making of enterprise and method thereof
+  
   
 </details>
 
