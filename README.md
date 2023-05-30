@@ -18,11 +18,10 @@
   <summary>Certification</summary>
   
 # Certification
-| **Type** | **Date** | **No.** |
-|:--------:|:--------:|:--------:|
-| **ADsP** | 2020.07.07 | ADsP-0252494 |
-| **Survey Analyst, Junior** | 2020.12.31 | 20505021002V |
-| **Engineer Big Data Analysis** | 2021.07.16 | BAE-002001654 |
+
+- [2020.07.07] **ADsP** | ADsP-0252494
+- [2020.12.31] **Survey Analysis, Junior** | 20505021002V
+- [2021.07.16] **Big Data Analysis, Engineer** | BAE-002001654
 
 </details>
   
