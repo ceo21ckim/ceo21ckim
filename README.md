@@ -43,7 +43,7 @@
   
 #### Domestic Conference
 
-- [2023] 이청용, 장동수, **김동언**, 김재경. A novel restaurant recommendation model using textual information for estimating consumer preference [[URL]]()
+- [2023] 이청용, 장동수, **김동언**, 김재경. Artificial intelligence mechanism for the hospitality industry: developing a personalized restaurant recommendation model for consumer dicision-making [[URL]]()
 - [2022] **김동언**, 이청용, 정재호, 김재경. Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect [[URL]](https://www.earticle.net/Article/A416315)
 
   
@@ -69,7 +69,7 @@
   
 ##### Awards
 
-- [2023.05.24] IT서비스학회: **ERP 최우수 논문상** (명시적 및 암시적 피드백을 활용한 그래프 컨볼루션 네트워크 기반 추천 시스템 개발)
+- [2023.05.24] 한국IT서비스학회: **ERP 최우수 논문상** (명시적 및 암시적 피드백을 활용한 그래프 컨볼루션 네트워크 기반 추천 시스템 개발)
 - [2022.10.14] 제 3회 대구 빅데이터 분석 경진대회: **최우수상** (자연어처리와 군집 분석을 활용한 최적의 심야 버스 정류장 선정 알고리즘 구축)
 - [2020.10.30] 빅데이터 청년 캠퍼스: **장려상** (가치 투자 종목 추천 웹 서비스 구축)
   
