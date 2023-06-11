@@ -30,6 +30,9 @@
 
 #### SCI(E) / SSCI
 
+  
+- [2023] Qinglong Li, Dongsoo Jang, **Dongeon Kim**, Jaekyeong Kim. A Novel Restaurant Recommendation Model Using Textual Information for Estimating Consumer Preference: Evidence from Online Restaurant Platform `Major Revision`
+  
 - [2022] Jaeho Jeong, **Dongeon Kim**, Xinzhe Li, Qinglong Li, Ilyoung Choi, Jaekyeong Kim. An Empirical Investigation of Personalized Recommendation and Reward Effect on Customer Behavior: A Stimulus-Organism-Response (SOR) Model Perspective [[URL]](https://doi.org/10.3390/su142215369)
 
 
@@ -50,8 +53,8 @@
   
 #### Under Review
 
-
-- [2023] Qinglong Li, Dongsoo Jang, **Dongeon Kim**, Jaekyeong Kim. A Novel Restaurant Recommendation Model Using Textual Information for Estimating Consumer Preference: Evidence from Online Restaurant Platform `Major Revision`
+  
+- [2023] **Dongeon Kim**, YeongHyeon Park. Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Demension Reduction Methods. `Under Review`
 - [2023] **Dongeon Kim**, Jiaen Lee. Developing Restaurant Recommendation Model with Review Textual for Tourism Industry `Under Review`
 - [2022] Qinglong Li, Jaeho Jeong, **Dongeon Kim**, Xinzhe Li, Jaekyeong Kim. Empirical Comparison of the Effects of Online and Offline Recommendation Duration on Performance: The Case of Korea Food E-commerce Company `Under Review`
 
