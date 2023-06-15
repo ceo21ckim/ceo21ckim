@@ -39,14 +39,14 @@
   
 #### KCI
 
-- [2023] 장동수, 정다솜, 이청용, **김동언**, 김재경. 중소기업의 지속가능한 경영을 위한 머신러닝 기반 스마트 컨설팅 방법론에 관한 연구 [[URL]]()
+- [2023] 장동수, 정다솜, 이청용, **김동언**, 김재경. 중소기업의 지속가능한 경영을 위한 머신러닝 기반 스마트 컨설팅 방법론에 관한 연구 [[URL]](https://www.earticle.net/Article/A430533)
 - [2023] 이흠철, **김동언**, 이청용, 김재경. 명시적 및 암시적 피드백을 활용한 그래프 컨볼루션 네트워크 기반 추천 시스템 개발 [[URL]](https://scholar.kyobobook.co.kr/article/detail/4010047321916)
 - [2022] **김동언**, 김민지, 김재경. 소규모 전자상거래를 위한 추천 시스템의 시간 차이에 따른 추천 효과 측정에 관한 연구 [[URL]](https://doi.org/10.37272/JIECR.2022.12.22.6.185)
 - [2022] **김동언**, 이청용, 김재경. 역사 맞춤형 정책 수립을 위한 지하철 역사의 유형화 및 특성 분석에 관한 연구: 서울 지하철 사례를 중심으로 [[URL]](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002875447)
   
 #### Domestic Conference
 
-- [2023] 이청용, 장동수, **김동언**, 김재경. Artificial intelligence mechanism for the hospitality industry: developing a personalized restaurant recommendation model for consumer dicision-making [[URL]]()
+- [2023] 이청용, 장동수, **김동언**, 김재경. Artificial intelligence mechanism for the hospitality industry: developing a personalized restaurant recommendation model for consumer decision-making [[URL]]()
 - [2022] **김동언**, 이청용, 정재호, 김재경. Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect [[URL]](https://www.earticle.net/Article/A416315)
 
   
@@ -54,7 +54,7 @@
 #### Under Review
 
   
-- [2023] **Dongeon Kim**, YeongHyeon Park. Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Demension Reduction Methods. `Under Review`
+- [2023] **Dongeon Kim**, YeongHyeon Park. Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods. `Under Review`
 - [2023] **Dongeon Kim**, Jiaen Lee. Developing Restaurant Recommendation Model with Review Textual for Tourism Industry `Under Review`
 - [2022] Qinglong Li, Jaeho Jeong, **Dongeon Kim**, Xinzhe Li, Jaekyeong Kim. Empirical Comparison of the Effects of Online and Offline Recommendation Duration on Performance: The Case of Korea Food E-commerce Company `Under Review`
 
