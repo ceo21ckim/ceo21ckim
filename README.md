@@ -31,7 +31,7 @@
 #### SCI(E) / SSCI
 
   
-- [2023] Qinglong Li, Dongsoo Jang, **Dongeon Kim**, Jaekyeong Kim. A Novel Restaurant Recommendation Model Using Textual Information for Estimating Consumer Preference: Evidence from Online Restaurant Platform [[URL]]()
+- [2023] Qinglong Li, Dongsoo Jang, **Dongeon Kim**, Jaekyeong Kim. Restaurant recommendation model using textual information to estimate consumer preference: Evidence from an online restaurant platform [[URL]]()
   
 - [2022] Jaeho Jeong, **Dongeon Kim**, Xinzhe Li, Qinglong Li, Ilyoung Choi, Jaekyeong Kim. An Empirical Investigation of Personalized Recommendation and Reward Effect on Customer Behavior: A Stimulus-Organism-Response (SOR) Model Perspective [[URL]](https://doi.org/10.3390/su142215369)
 
