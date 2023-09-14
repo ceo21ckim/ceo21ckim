@@ -13,7 +13,6 @@
 | **B.S. & B.A. Degree** | 2015.03 ~ 2021.08 | double major Mathematics and Economics | **Myong Ji Univ.** |
 | **M.S. Degree** | 2021.08 ~ 2023.08 | Department of Big Data Analytics | **Kyung Hee Univ.** |
 | **Intern**| 2023.04 ~ 2023.07 | Data Scientist | **SK Planet** |
-| **Current** | 2023.08 ~  | job seeker | N/A | 
 
 <details>
   <summary>Certification</summary>
