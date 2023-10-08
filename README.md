@@ -53,9 +53,7 @@
   
 #### Under Review
 
-  
-- [2023] **Dongeon Kim**, YeongHyeon Park. Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods. `Under Review`
-- [2023] **Dongeon Kim**, Jiaen Lee. Developing Restaurant Recommendation Model with Review Textual for Tourism Industry `Under Review`
+- [2023] **Dongeon Kim**, Jiaen Lee. Developing a deep learning-based recommendation model using online reviews for estimating consumer preferences: Evidence from an online restaurant platform `Under Review`
 - [2022] Qinglong Li, Jaeho Jeong, **Dongeon Kim**, Xinzhe Li, Jaekyeong Kim. Empirical Comparison of the Effects of Online and Offline Recommendation Duration on Performance: The Case of Korea Food E-commerce Company `Under Review`
 
 
