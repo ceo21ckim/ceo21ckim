@@ -7,6 +7,8 @@
 - Anomaly Detection
 - Computer Vision
 
+[CV](https://deeply-potential-7d1.notion.site/DongEon-Kim-bfa138799c9f48298c334c3d8e00fc15?pvs=4)
+
 # Career
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
