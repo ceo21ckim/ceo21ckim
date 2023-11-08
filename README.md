@@ -99,7 +99,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehddjs7786@gmail.com)](mailto:ehddjs7786@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-School%20mail-d14836?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:ponben@khu.ac.kr)](mailto:ponben@khu.ac.kr)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dongeon-kim-59777422a///)](https://www.linkedin.com/in/dongeon-kim-59777422a/)
-[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://ok-lab.tistory.com/)](https://ok-lab.tistory.com/)
+[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://ok-lab.tistory.com/)](https://ok-lab.tistory.com/) [![Notion Badge](https://img.shields.io/badge/Notion-808080?style=flat-square&logo=Notion&logoColor=white&link=https://deeply-potential-7d1.notion.site/DongEon-Kim-bfa138799c9f48298c334c3d8e00fc15)](https://deeply-potential-7d1.notion.site/DongEon-Kim-bfa138799c9f48298c334c3d8e00fc15)
 
 
 # Cards
