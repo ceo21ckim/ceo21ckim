@@ -55,7 +55,7 @@
   
 #### Under Review
 
-- [2023] **Dongeon Kim**, Jiaen Lee. Developing a deep learning-based recommendation model using online reviews for estimating consumer preferences: Evidence from an online restaurant platform `Under Review`
+- [2023] **Dongeon Kim**, Dongsoo Kim, Jinzhe Yan, Jiaen Lee. Developing a deep learning-based recommendation model using online reviews for estimating consumer preferences: Evidence from an online restaurant platform `Under Review`
 - [2023] Qinglong Li, Dasom Jeong, **Dongeon Kim**, Jiaen Lee. The effect of aspect level emotion expression of online restaurant reviews on perceived helpfulness: An aspect-based sentiment analysis perspective `Under Review`
 - [2023] **Dongeon Kim**, Qinglong Li, Dongsoo Jang, Jaekyeong Kim. AXCF: aspect-based collaborative filtering for explainable recommendations `Under Review`
 
