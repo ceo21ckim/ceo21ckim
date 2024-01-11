@@ -41,7 +41,7 @@
   
 #### KCI
 
-- [2023] **Dongeon Kim**, Dongsoo Kim, Jinzhe Yan, Jiaen Lee. Developing a deep learning-based recommendation model using online reviews for estimating consumer preferences: Evidence from an online restaurant platform [[URL]]()
+- [2023] **Dongeon Kim**, Dongsoo Kim, Jinzhe Yan, Jiaen Lee. Developing a deep learning-based recommendation model using online reviews for estimating consumer preferences: Evidence from an online restaurant platform [[URL]](https://www.jiisonline.org/index.php?mnu=archive&archiveId=985&tparam=29.4.12.2023)
 - [2023] 장동수, 정다솜, 이청용, **김동언**, 김재경. 중소기업의 지속가능한 경영을 위한 머신러닝 기반 스마트 컨설팅 방법론에 관한 연구 [[URL]](https://www.earticle.net/Article/A430533)
 - [2023] 이흠철, **김동언**, 이청용, 김재경. 명시적 및 암시적 피드백을 활용한 그래프 컨볼루션 네트워크 기반 추천 시스템 개발 [[URL]](https://scholar.kyobobook.co.kr/article/detail/4010047321916)
 - [2022] **김동언**, 김민지, 김재경. 소규모 전자상거래를 위한 추천 시스템의 시간 차이에 따른 추천 효과 측정에 관한 연구 [[URL]](https://doi.org/10.37272/JIECR.2022.12.22.6.185)
@@ -51,11 +51,6 @@
 
 - [2023] 이청용, 장동수, **김동언**, 김재경. Artificial intelligence mechanism for the hospitality industry: developing a personalized restaurant recommendation model for consumer decision-making [[URL]](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11473042)
 - [2022] **김동언**, 이청용, 정재호, 김재경. Comparison of Online-Offline Recommendation Performance based on Time-Lag Effect [[URL]](https://www.earticle.net/Article/A416315)
-  
-  
-#### Under Review
-
-- [2023] Qinglong Li, Dasom Jeong, **Dongeon Kim**, Jiaen Lee. The effect of aspect level emotion expression of online restaurant reviews on perceived helpfulness: An aspect-based sentiment analysis perspective `Under Review`
 
 
 #### Thesis
