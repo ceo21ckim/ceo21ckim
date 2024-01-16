@@ -31,13 +31,13 @@
 
 #### SCI(E) / SSCI
 
-- [2023] **Dongeon Kim**, Qinglong Li, Dongsoo Jang, Jaekyeong Kim. AXCF: aspect-based collaborative filtering for explainable recommendations [[URL]]()
+- [2023] **Dongeon Kim**, Qinglong Li, Dongsoo Jang, Jaekyeong Kim. AXCF: aspect-based collaborative filtering for explainable recommendations [URL]
 - [2023] Qinglong Li, Dongsoo Jang, **Dongeon Kim**, Jaekyeong Kim. Restaurant recommendation model using textual information to estimate consumer preference: Evidence from an online restaurant platform [[URL]](https://www.emerald.com/insight/content/doi/10.1108/JHTT-01-2023-0019/full/html)
 - [2022] Jaeho Jeong, **Dongeon Kim**, Xinzhe Li, Qinglong Li, Ilyoung Choi, Jaekyeong Kim. An Empirical Investigation of Personalized Recommendation and Reward Effect on Customer Behavior: A Stimulus-Organism-Response (SOR) Model Perspective [[URL]](https://doi.org/10.3390/su142215369)
 
 #### SCOPUS
 
-- [2023] Qinglong Li, Jaeho Jeong, **Dongeon Kim**, Xinzhe Li, Jaekyeong Kim. Empirical Comparison of the Effects of Online and Offline Recommendation Duration on Performance: The Case of Korea Food E-commerce Company [[URL]]()
+- [2023] Qinglong Li, Jaeho Jeong, **Dongeon Kim**, Xinzhe Li, Jaekyeong Kim. Empirical Comparison of the Effects of Online and Offline Recommendation Duration on Performance: The Case of Korea Food E-commerce Company [URL]
   
 #### KCI
 
