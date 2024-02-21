@@ -39,7 +39,13 @@
 #### SCOPUS
 
 - [2023] Qinglong Li, Jaeho Jeong, **Dongeon Kim**, Xinzhe Li, Jaekyeong Kim. Empirical Comparison of the Effects of Online and Offline Recommendation Duration on Performance: The Case of Korea Food E-commerce Company [URL]
-  
+
+#### ArXiv
+
+- [2024] **Dongeon Kim**, YeongHyeon Park. Empirical Analysis of Anomaly Detection on Hyperspectral Imaging Using Dimension Reduction Methods [[URL]](https://arxiv.org/pdf/2401.04437.pdf)
+
+
+
 #### KCI
 
 - [2023] **Dongeon Kim**, Dongsoo Kim, Jinzhe Yan, Jiaen Lee. Developing a deep learning-based recommendation model using online reviews for estimating consumer preferences: Evidence from an online restaurant platform [[URL]](https://www.jiisonline.org/index.php?mnu=archive&archiveId=985&tparam=29.4.12.2023)
