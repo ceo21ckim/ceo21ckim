@@ -14,7 +14,7 @@
 | **M.S. Degree** | 2021.08 ~ 2023.08 | Department of Big Data Analytics | **Kyung Hee Univ.** |
 | **Work experience**| 2023.04 ~ 2023.07 | Data Scientist | **SK Planet** |
 | **Experience** | 2023.11 ~ 2024.02 | Naver Boostcamp AI Tech NLP 6 | **Naver Connect** |
-| **Current** | 2024.02 ~ | Data Scientist | **Deloitte** | 
+| **Current** | 2024.02 ~ | Business Analyst | **Deloitte** | 
 
 <details>
   <summary>Certification</summary>
